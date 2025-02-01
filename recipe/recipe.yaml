@@ -8,6 +8,10 @@ package:
   name: lkml
   version: ${{ version }}
 
+source:
+  url: https://pypi.org/packages/source/l/lkml/lkml-${{ version }}.tar.gz
+  sha256: 51dc9f1b7e74cd7a00e0dbbf06fb573952015328f1f4a3a0730d444444a8ae7a
+
 build:
   number: 0
   noarch: python
