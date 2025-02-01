@@ -35,6 +35,8 @@ tests:
       pip_check: true
       imports: lkml
   - files:
+      recipe:
+        - run_test.py
       source:
         - tests/
         - setup.cfg
