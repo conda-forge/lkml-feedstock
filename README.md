@@ -9,7 +9,7 @@ Package license: MIT
 
 Summary: A speedy LookML parser implemented in pure Python.
 
-Documentation: https://lkml.readthedocs.io
+Documentation: https://lkml.readthedocs.io/
 
 Current build status
 ====================
